@@ -10,6 +10,7 @@ namespace Sample1sm
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
