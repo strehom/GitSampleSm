@@ -19,5 +19,13 @@ namespace Sample1sm
             int b = 3;
             Console.WriteLine("This is the Div method: " + a+b);
         }
+
+        public void divB()
+        {
+            for(int i = 0; i < 5; i++)
+            {
+                Console.WriteLine(i * 2);
+            }
+        }
     }
 }
