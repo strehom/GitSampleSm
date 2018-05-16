@@ -32,5 +32,10 @@ namespace Sample1sm
         {
             Console.WriteLine("This is the DivD method.");
         }
+
+        public void mult()
+        {
+            Console.WriteLine("This is the Mult method.");
+        }
     }
 }
