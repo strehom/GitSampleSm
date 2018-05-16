@@ -10,7 +10,7 @@ namespace Sample1sm
     {
         public void add()
         {
-            Console.WriteLine("This is the Add method.");
+            Console.WriteLine("add");
         }
 
         public void div()
