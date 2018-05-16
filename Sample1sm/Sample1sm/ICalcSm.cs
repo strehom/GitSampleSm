@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Sample1sm
 {
-    class CalcSm : ICalcSm
+    interface ICalcSm
     {
         public void add()
         {
